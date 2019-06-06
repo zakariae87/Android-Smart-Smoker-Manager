@@ -6,7 +6,7 @@ A simple Android bluetooth example to turn on/off the radio and to view and conn
 
 
 <p align="center">
-<img src="logo.png" width="35%" height="35%" />
+<img src="smartfighter.png" width="35%" height="35%" />
 </p>
 
 ## Introduction
