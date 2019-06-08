@@ -40,12 +40,12 @@
         "source": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -66,6 +66,10 @@
     {
         "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\haltefire.png",
+        "source": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\src\\main\\res\\drawable\\haltefire.png"
     },
     {
         "merged": "C:\\Users\\zboukara\\AndroidStudioProjects\\SmartFighter\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
